@@ -1,0 +1,9 @@
+#header *{
+	display: inline-block;
+}
+
+#header img{
+	width: 150px;
+}
+
+#gig-info{font-style: italic;}
