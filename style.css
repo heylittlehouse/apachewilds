@@ -1,13 +1,18 @@
 #bandname{text-align: center;}
 
 img{
-	width: 630px;
+	width: 570px;
 	float: right;
 }
 
 #gig-info{font-style: italic;}
 
 #email{float: right;}
+
+body{
+	background-image: url(img/yellowpaper.gif);
+	padding: 10px;
+}
 
 /* @group Blink */
 .blink {
